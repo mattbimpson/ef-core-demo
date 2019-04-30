@@ -12,3 +12,10 @@ C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfo.cs
 C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.dll
 C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.pdb
 C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csprojAssemblyReference.cache
+C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\DataAccess.dll
+C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\DataModels.dll
+C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\EFServices.dll
+C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\DataAccess.pdb
+C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\EFServices.pdb
+C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\DataModels.pdb
+C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csproj.CopyComplete
