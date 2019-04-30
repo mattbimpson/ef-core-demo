@@ -6,7 +6,6 @@ C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.runtimeconfig.json
 C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.runtimeconfig.dev.json
 C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.dll
 C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.pdb
-C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csprojAssemblyReference.cache
 C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csproj.CoreCompileInputs.cache
 C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfoInputs.cache
 C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfo.cs

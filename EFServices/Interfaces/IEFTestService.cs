@@ -10,5 +10,6 @@ namespace EFServices.Interfaces
     {
         Task<IEnumerable<Employee>> GetEmployees();
         Task AddEmployee(Employee employee);
+        Task DeleteEmployee(int id);
     }
 }

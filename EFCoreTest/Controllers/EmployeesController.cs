@@ -83,21 +83,13 @@ namespace EFCoreTest.Controllers
             return CreatedAtAction("GetEmployee", new { id = employee.Id }, employee);
         }
 
-        //// DELETE: api/Employees/5
-        //[HttpDelete("{id}")]
-        //public async Task<ActionResult<Employee>> DeleteEmployee(int id)
-        //{
-        //    var employee = await _context.Employees.FindAsync(id);
-        //    if (employee == null)
-        //    {
-        //        return NotFound();
-        //    }
-
-        //    _context.Employees.Remove(employee);
-        //    await _context.SaveChangesAsync();
-
-        //    return employee;
-        //}
+        // DELETE: api/Employees/5
+        [HttpDelete("{id}")]
+        public async Task<ActionResult> DeleteEmployee(int id)
+        {
+            await _eFTestService.DeleteEmployee(id);
+            return Ok();
+        }
 
         //private bool EmployeeExists(int id)
         //{

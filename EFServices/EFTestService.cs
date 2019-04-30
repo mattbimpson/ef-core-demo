@@ -19,7 +19,19 @@ namespace EFServices
 
         public async Task AddEmployee(Employee employee)
         {
-            _context.Add(employee);
+            _context.Employees.Add(employee);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task DeleteEmployee(int id)
+        {
+            var employee = await _context.Employees.FindAsync(id);
+            if (employee == null)
+            {
+                return;
+            }
+
+            _context.Employees.Remove(employee);
             await _context.SaveChangesAsync();
         }
 
