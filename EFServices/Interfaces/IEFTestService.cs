@@ -1,7 +1,5 @@
 ﻿using DataModels;
-using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace EFServices.Interfaces
@@ -11,5 +9,6 @@ namespace EFServices.Interfaces
         Task<IEnumerable<Employee>> GetEmployees();
         Task AddEmployee(Employee employee);
         Task DeleteEmployee(int id);
+        Task<Employee> GetEmployeeById(int id);
     }
 }

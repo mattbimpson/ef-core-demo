@@ -11,3 +11,4 @@ C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfoInputs
 C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfo.cs
 C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.dll
 C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.pdb
+C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csprojAssemblyReference.cache

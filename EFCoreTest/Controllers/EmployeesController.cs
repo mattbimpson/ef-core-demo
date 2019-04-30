@@ -31,18 +31,18 @@ namespace EFCoreTest.Controllers
         }
 
         // GET: api/Employees/5
-        //[HttpGet("{id}")]
-        //public async Task<ActionResult<Employee>> GetEmployee(int id)
-        //{
-        //    var employee = await _context.Employees.FindAsync(id);
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Employee>> GetEmployee(int id)
+        {
+            var employee = await _eFTestService.GetEmployeeById(id);
 
-        //    if (employee == null)
-        //    {
-        //        return NotFound();
-        //    }
+            if (employee == null)
+            {
+                return NotFound();
+            }
 
-        //    return employee;
-        //}
+            return employee;
+        }
 
         //// PUT: api/Employees/5
         //[HttpPut("{id}")]

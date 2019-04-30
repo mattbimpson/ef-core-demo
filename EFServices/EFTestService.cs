@@ -35,6 +35,11 @@ namespace EFServices
             await _context.SaveChangesAsync();
         }
 
+        public async Task<Employee> GetEmployeeById(int id)
+        {
+            return await _context.Employees.FindAsync(id);
+        }
+
         public async Task<IEnumerable<Employee>> GetEmployees()
         {
             return await _context.Employees.ToListAsync();
