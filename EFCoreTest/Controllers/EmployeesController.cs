@@ -74,15 +74,14 @@ namespace EFCoreTest.Controllers
         //    return NoContent();
         //}
 
-        //// POST: api/Employees
-        //[HttpPost]
-        //public async Task<ActionResult<Employee>> PostEmployee(Employee employee)
-        //{
-        //    _context.Employees.Add(employee);
-        //    await _context.SaveChangesAsync();
+        // POST: api/Employees
+        [HttpPost]
+        public async Task<ActionResult<Employee>> PostEmployee(Employee employee)
+        {
+            await _eFTestService.AddEmployee(employee);
 
-        //    return CreatedAtAction("GetEmployee", new { id = employee.Id }, employee);
-        //}
+            return CreatedAtAction("GetEmployee", new { id = employee.Id }, employee);
+        }
 
         //// DELETE: api/Employees/5
         //[HttpDelete("{id}")]

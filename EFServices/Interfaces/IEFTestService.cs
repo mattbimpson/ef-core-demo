@@ -9,5 +9,6 @@ namespace EFServices.Interfaces
     public interface IEFTestService
     {
         Task<IEnumerable<Employee>> GetEmployees();
+        Task AddEmployee(Employee employee);
     }
 }

@@ -1,0 +1,14 @@
+C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.deps.json
+C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.runtimeconfig.json
+C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.runtimeconfig.dev.json
+C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.dll
+C:\dev\EFCoreTest\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.pdb
+C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csprojAssemblyReference.cache
+C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csproj.CoreCompileInputs.cache
+C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfoInputs.cache
+C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfo.cs
+C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.dll
+C:\dev\EFCoreTest\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.pdb
