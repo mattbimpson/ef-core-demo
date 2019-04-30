@@ -1,0 +1,14 @@
+C:\dev\EFCoreTest\EFServices\bin\Debug\netstandard2.0\EFServices.deps.json
+C:\dev\EFCoreTest\EFServices\bin\Debug\netstandard2.0\EFServices.dll
+C:\dev\EFCoreTest\EFServices\bin\Debug\netstandard2.0\EFServices.pdb
+C:\dev\EFCoreTest\EFServices\obj\Debug\netstandard2.0\EFServices.csprojAssemblyReference.cache
+C:\dev\EFCoreTest\EFServices\obj\Debug\netstandard2.0\EFServices.csproj.CoreCompileInputs.cache
+C:\dev\EFCoreTest\EFServices\obj\Debug\netstandard2.0\EFServices.AssemblyInfoInputs.cache
+C:\dev\EFCoreTest\EFServices\obj\Debug\netstandard2.0\EFServices.AssemblyInfo.cs
+C:\dev\EFCoreTest\EFServices\obj\Debug\netstandard2.0\EFServices.dll
+C:\dev\EFCoreTest\EFServices\obj\Debug\netstandard2.0\EFServices.pdb
+C:\dev\EFCoreTest\EFServices\bin\Debug\netstandard2.0\DataAccess.dll
+C:\dev\EFCoreTest\EFServices\bin\Debug\netstandard2.0\DataModels.dll
+C:\dev\EFCoreTest\EFServices\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\dev\EFCoreTest\EFServices\bin\Debug\netstandard2.0\DataModels.pdb
+C:\dev\EFCoreTest\EFServices\obj\Debug\netstandard2.0\EFServices.csproj.CopyComplete
