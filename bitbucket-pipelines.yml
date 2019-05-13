@@ -11,7 +11,7 @@ pipelines:
         caches:
           - dotnetcore
         script: # Modify the comma`nds below to build your repository.
-          - export PROJECT_NAME=efCoreTest
+          - export PROJECT_NAME=EFCoreTest.sln
           - export TEST_NAME=Tests.EFTestServiceTests
           - dotnet restore
           - dotnet build $PROJECT_NAME
