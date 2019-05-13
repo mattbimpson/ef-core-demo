@@ -10,3 +10,15 @@ C:\dev\EFCoreTest\DataAccess\bin\Debug\netstandard2.0\DataModels.pdb
 C:\dev\EFCoreTest\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\dev\EFCoreTest\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\dev\EFCoreTest\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\dev\ef-core-demo\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\dev\ef-core-demo\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\dev\ef-core-demo\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\dev\ef-core-demo\DataAccess\bin\Debug\netstandard2.0\DataModels.dll
+C:\dev\ef-core-demo\DataAccess\bin\Debug\netstandard2.0\DataModels.pdb
+C:\dev\ef-core-demo\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\dev\ef-core-demo\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\dev\ef-core-demo\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\dev\ef-core-demo\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\dev\ef-core-demo\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\dev\ef-core-demo\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\dev\ef-core-demo\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

@@ -6,3 +6,12 @@ C:\dev\EFCoreTest\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInp
 C:\dev\EFCoreTest\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
 C:\dev\EFCoreTest\DataModels\obj\Debug\netstandard2.0\DataModels.dll
 C:\dev\EFCoreTest\DataModels\obj\Debug\netstandard2.0\DataModels.pdb
+C:\dev\ef-core-demo\DataModels\bin\Debug\netstandard2.0\DataModels.deps.json
+C:\dev\ef-core-demo\DataModels\bin\Debug\netstandard2.0\DataModels.dll
+C:\dev\ef-core-demo\DataModels\bin\Debug\netstandard2.0\DataModels.pdb
+C:\dev\ef-core-demo\DataModels\obj\Debug\netstandard2.0\DataModels.csprojAssemblyReference.cache
+C:\dev\ef-core-demo\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CoreCompileInputs.cache
+C:\dev\ef-core-demo\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInputs.cache
+C:\dev\ef-core-demo\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
+C:\dev\ef-core-demo\DataModels\obj\Debug\netstandard2.0\DataModels.dll
+C:\dev\ef-core-demo\DataModels\obj\Debug\netstandard2.0\DataModels.pdb

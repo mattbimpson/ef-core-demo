@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\EFCoreTest\\UnitTests\\UnitTests.csproj": {}
+    "C:\\dev\\ef-core-demo\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\dev\\EFCoreTest\\DataAccess\\DataAccess.csproj": {
+    "C:\\dev\\ef-core-demo\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\EFCoreTest\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\dev\\ef-core-demo\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\dev\\EFCoreTest\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\dev\\ef-core-demo\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\mattb\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\EFCoreTest\\DataAccess\\obj\\",
+        "outputPath": "C:\\dev\\ef-core-demo\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\dev\\EFCoreTest\\DataModels\\DataModels.csproj": {
-                "projectPath": "C:\\dev\\EFCoreTest\\DataModels\\DataModels.csproj"
+              "C:\\dev\\ef-core-demo\\DataModels\\DataModels.csproj": {
+                "projectPath": "C:\\dev\\ef-core-demo\\DataModels\\DataModels.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\dev\\EFCoreTest\\DataModels\\DataModels.csproj": {
+    "C:\\dev\\ef-core-demo\\DataModels\\DataModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\EFCoreTest\\DataModels\\DataModels.csproj",
+        "projectUniqueName": "C:\\dev\\ef-core-demo\\DataModels\\DataModels.csproj",
         "projectName": "DataModels",
-        "projectPath": "C:\\dev\\EFCoreTest\\DataModels\\DataModels.csproj",
+        "projectPath": "C:\\dev\\ef-core-demo\\DataModels\\DataModels.csproj",
         "packagesPath": "C:\\Users\\mattb\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\EFCoreTest\\DataModels\\obj\\",
+        "outputPath": "C:\\dev\\ef-core-demo\\DataModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -120,14 +120,14 @@
         }
       }
     },
-    "C:\\dev\\EFCoreTest\\EFServices\\EFServices.csproj": {
+    "C:\\dev\\ef-core-demo\\EFServices\\EFServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\EFCoreTest\\EFServices\\EFServices.csproj",
+        "projectUniqueName": "C:\\dev\\ef-core-demo\\EFServices\\EFServices.csproj",
         "projectName": "EFServices",
-        "projectPath": "C:\\dev\\EFCoreTest\\EFServices\\EFServices.csproj",
+        "projectPath": "C:\\dev\\ef-core-demo\\EFServices\\EFServices.csproj",
         "packagesPath": "C:\\Users\\mattb\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\EFCoreTest\\EFServices\\obj\\",
+        "outputPath": "C:\\dev\\ef-core-demo\\EFServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -146,11 +146,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\dev\\EFCoreTest\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\dev\\EFCoreTest\\DataAccess\\DataAccess.csproj"
+              "C:\\dev\\ef-core-demo\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\dev\\ef-core-demo\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\dev\\EFCoreTest\\DataModels\\DataModels.csproj": {
-                "projectPath": "C:\\dev\\EFCoreTest\\DataModels\\DataModels.csproj"
+              "C:\\dev\\ef-core-demo\\DataModels\\DataModels.csproj": {
+                "projectPath": "C:\\dev\\ef-core-demo\\DataModels\\DataModels.csproj"
               }
             }
           }
@@ -179,14 +179,14 @@
         }
       }
     },
-    "C:\\dev\\EFCoreTest\\UnitTests\\UnitTests.csproj": {
+    "C:\\dev\\ef-core-demo\\UnitTests\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\EFCoreTest\\UnitTests\\UnitTests.csproj",
+        "projectUniqueName": "C:\\dev\\ef-core-demo\\UnitTests\\UnitTests.csproj",
         "projectName": "UnitTests",
-        "projectPath": "C:\\dev\\EFCoreTest\\UnitTests\\UnitTests.csproj",
+        "projectPath": "C:\\dev\\ef-core-demo\\UnitTests\\UnitTests.csproj",
         "packagesPath": "C:\\Users\\mattb\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\EFCoreTest\\UnitTests\\obj\\",
+        "outputPath": "C:\\dev\\ef-core-demo\\UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -205,11 +205,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\dev\\EFCoreTest\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\dev\\EFCoreTest\\DataAccess\\DataAccess.csproj"
+              "C:\\dev\\ef-core-demo\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\dev\\ef-core-demo\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\dev\\EFCoreTest\\EFServices\\EFServices.csproj": {
-                "projectPath": "C:\\dev\\EFCoreTest\\EFServices\\EFServices.csproj"
+              "C:\\dev\\ef-core-demo\\EFServices\\EFServices.csproj": {
+                "projectPath": "C:\\dev\\ef-core-demo\\EFServices\\EFServices.csproj"
               }
             }
           }

@@ -12995,11 +12995,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\EFCoreTest\\EFCoreTest\\EFCoreTest.csproj",
+      "projectUniqueName": "C:\\dev\\ef-core-demo\\EFCoreTest\\EFCoreTest.csproj",
       "projectName": "EFCoreTest",
-      "projectPath": "C:\\dev\\EFCoreTest\\EFCoreTest\\EFCoreTest.csproj",
+      "projectPath": "C:\\dev\\ef-core-demo\\EFCoreTest\\EFCoreTest.csproj",
       "packagesPath": "C:\\Users\\mattb\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\EFCoreTest\\EFCoreTest\\obj\\",
+      "outputPath": "C:\\dev\\ef-core-demo\\EFCoreTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13018,11 +13018,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\dev\\EFCoreTest\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\dev\\EFCoreTest\\DataAccess\\DataAccess.csproj"
+            "C:\\dev\\ef-core-demo\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\dev\\ef-core-demo\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\dev\\EFCoreTest\\EFServices\\EFServices.csproj": {
-              "projectPath": "C:\\dev\\EFCoreTest\\EFServices\\EFServices.csproj"
+            "C:\\dev\\ef-core-demo\\EFServices\\EFServices.csproj": {
+              "projectPath": "C:\\dev\\ef-core-demo\\EFServices\\EFServices.csproj"
             }
           }
         }

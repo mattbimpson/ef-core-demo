@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\EFCoreTest\\DataModels\\DataModels.csproj": {}
+    "C:\\dev\\ef-core-demo\\DataModels\\DataModels.csproj": {}
   },
   "projects": {
-    "C:\\dev\\EFCoreTest\\DataModels\\DataModels.csproj": {
+    "C:\\dev\\ef-core-demo\\DataModels\\DataModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\EFCoreTest\\DataModels\\DataModels.csproj",
+        "projectUniqueName": "C:\\dev\\ef-core-demo\\DataModels\\DataModels.csproj",
         "projectName": "DataModels",
-        "projectPath": "C:\\dev\\EFCoreTest\\DataModels\\DataModels.csproj",
+        "projectPath": "C:\\dev\\ef-core-demo\\DataModels\\DataModels.csproj",
         "packagesPath": "C:\\Users\\mattb\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\EFCoreTest\\DataModels\\obj\\",
+        "outputPath": "C:\\dev\\ef-core-demo\\DataModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
